@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "tetrix",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "title": "TETRIX - O desafio universitário",
   "description": "TETRIX landing page",
   "builders": {
