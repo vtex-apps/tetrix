@@ -6,6 +6,7 @@ import Header from './components/Header'
 import About from './components/About'
 import Video from './components/Video'
 import Prizes from './components/Prizes'
+import Jury from './components/Jury'
 import FAQ from './components/FAQ'
 import Footer from './components/Footer'
 import HowItWorks from './components/HowItWorks'
@@ -59,6 +60,7 @@ const Tetrix: FunctionComponent = () => {
           <Video />
           <HowItWorks />
           <Prizes />
+          <Jury />
           <FAQ />
         </div>
       </main>
