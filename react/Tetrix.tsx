@@ -40,7 +40,6 @@ const Tetrix: FunctionComponent = () => {
           property="og:description"
           content="O desafio universitário da VTEX"
         />
-        {/* <meta property="og:image" content={HomeImage} /> */}
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://tetrix.vtex.com/" />
@@ -49,13 +48,10 @@ const Tetrix: FunctionComponent = () => {
           property="twitter:description"
           content="O desafio universitário da VTEX"
         />
-        {/* <meta property="twitter:image" content={HomeImage} /> */}
       </Helmet>
       <main className="w-100 bg-white">
         <div className="w-90-l center">
-          <NoSSR>
-            <Header />
-          </NoSSR>
+          <Header />
           <About />
           <Video />
           <HowItWorks />
