@@ -6,25 +6,33 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Changed
+
+- Link to Tetrix' rules.
+
+### Added
+
+- Example questions at tetrix.vtex.com/examples.
+- `News` section to the landing page.
 
 ## [1.1.1] - 2019-07-19
-## Changed
+### Changed
 
 - Youtube video.
 
-## Fixed
+### Fixed
 
 - Mobile scroll bug caused by the embeded TypeForm.
 
 ## [1.1.0] - 2019-07-12
-## Added
+### Added
 
 - New section for the Jury.
 
 ## [1.1.0-beta] - 2019-07-12
 
 ## [1.0.1] - 2019-07-05
-## Fixed
+### Fixed
 
 - Dates for the event and subscriptions deadline.
 
