@@ -35,7 +35,7 @@ const Nav: FunctionComponent = () => {
             <p className="mh5-l mv5 mv0-l bold">
               <a
                 className="link c-muted-1"
-                href="https://drive.google.com/file/d/1RUtzx23oaKNklXCMC_up-7ha2hV_grn-/view?usp=sharing"
+                href="https://drive.google.com/file/d/1F3z9SdkM_ze1tnrwTf-FTR1xJ-WJ5BHc/view?usp=sharing"
               >
                 <strong>REGRAS</strong>
               </a>

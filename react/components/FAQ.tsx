@@ -9,7 +9,7 @@ const FAQ: FunctionComponent = () => (
     <p>
       Para saber mais sobre o TETRIX, o Desafio, confira as{' '}
       <a
-        href="https://drive.google.com/file/d/1RUtzx23oaKNklXCMC_up-7ha2hV_grn-/view?usp=sharing"
+        href="https://drive.google.com/file/d/1F3z9SdkM_ze1tnrwTf-FTR1xJ-WJ5BHc/view?usp=sharing"
         className="c-on-base"
       >
         Regras do Desafio

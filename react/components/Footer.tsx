@@ -33,7 +33,7 @@ const Footer: FunctionComponent = () => (
         <p className="ph5-l">
           <a
             className="link c-muted-5"
-            href="https://drive.google.com/file/d/1RUtzx23oaKNklXCMC_up-7ha2hV_grn-/view?usp=sharing"
+            href="https://drive.google.com/file/d/1F3z9SdkM_ze1tnrwTf-FTR1xJ-WJ5BHc/view?usp=sharing"
           >
             TERMOS E CONDIÇÕES
           </a>
