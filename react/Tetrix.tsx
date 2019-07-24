@@ -1,5 +1,5 @@
 import React, { FunctionComponent, Fragment, useEffect } from 'react'
-import { Helmet, NoSSR } from 'vtex.render-runtime'
+import { Helmet } from 'vtex.render-runtime'
 import ReactGA from 'react-ga'
 
 import Header from './components/Header'
@@ -10,6 +10,7 @@ import Jury from './components/Jury'
 import FAQ from './components/FAQ'
 import Footer from './components/Footer'
 import HowItWorks from './components/HowItWorks'
+import News from './components/News'
 import favicon from './images/faviconTetrix.png'
 
 function initializeReactGA() {
@@ -57,6 +58,7 @@ const Tetrix: FunctionComponent = () => {
           <HowItWorks />
           <Prizes />
           <Jury />
+          <News/>
           <FAQ />
         </div>
       </main>
