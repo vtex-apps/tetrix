@@ -6,5 +6,8 @@
   },
   "tetrix.landing": {
     "component": "Tetrix"
+  },
+  "tetrix.examples": {
+    "component": "ExampleQuestions"
   }
 }
