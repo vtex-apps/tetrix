@@ -46,6 +46,17 @@ const News = () => {
             </h4>
             <small className="t-small">25 de julho de 2019</small>
           </article>
+          <article>
+            <h4 className="t-heading-4 ttu link no-underline">
+              <a
+                href="https://drive.google.com/file/d/1fZgM-SbBe4PuAu1bxtF3XvH1ThFqnF25/view?usp=sharing"
+                className="link no-underline ttu"
+              >
+                Gabarito Oficial - Primeira fase Desafio Tetrix
+              </a>
+            </h4>
+            <small className="t-small">29 de julho de 2019</small>
+          </article>
         </div>
       </div>
     </section>
