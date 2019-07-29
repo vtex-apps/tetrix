@@ -7,14 +7,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- Update to the News section.
+
 ## [1.4.0] - 2019-07-25
 
 ## [1.3.0] - 2019-07-24
+
 ### Added
 
 - Update on the News section.
 
 ## [1.2.0] - 2019-07-23
+
 ### Changed
 
 - Link to Tetrix' rules.
@@ -25,6 +31,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - `News` section to the landing page.
 
 ## [1.1.1] - 2019-07-19
+
 ### Changed
 
 - Youtube video.
@@ -34,6 +41,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Mobile scroll bug caused by the embeded TypeForm.
 
 ## [1.1.0] - 2019-07-12
+
 ### Added
 
 - New section for the Jury.
@@ -41,6 +49,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [1.1.0-beta] - 2019-07-12
 
 ## [1.0.1] - 2019-07-05
+
 ### Fixed
 
 - Dates for the event and subscriptions deadline.
