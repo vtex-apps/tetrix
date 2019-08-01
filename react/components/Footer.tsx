@@ -11,13 +11,13 @@ const Footer: FunctionComponent = () => (
         <img src={Logo} alt="TETRIX" />
         <div className="flex items-center justify-center mv4">
           <a
-            className="link c-muted-5 mh5"
+            className="link c-muted-1 mh5"
             href="https://www.facebook.com/desafiotetrix/"
           >
             <FontAwesomeIcon icon={faFacebook} />
           </a>
           <a
-            className="link c-muted-5 mh5"
+            className="link c-muted-1 mh5"
             href="https://www.instagram.com/desafiotetrix/"
           >
             <FontAwesomeIcon icon={faInstagram} />
@@ -26,25 +26,25 @@ const Footer: FunctionComponent = () => (
       </div>
       <div className="flex flex-row-l flex-column justify-between mt5 mt0-l">
         <p className="ph5-l">
-          <a className="link c-muted-5" href="https://vtex.com">
+          <a className="link c-muted-1" href="https://vtex.com">
             VTEX.COM
           </a>
         </p>
         <p className="ph5-l">
           <a
-            className="link c-muted-5"
+            className="link c-muted-1"
             href="https://drive.google.com/file/d/1F3z9SdkM_ze1tnrwTf-FTR1xJ-WJ5BHc/view?usp=sharing"
           >
             TERMOS E CONDIÇÕES
           </a>
         </p>
         <p className="ph5-l">
-          <a className="link c-muted-5" href="https://careers.vtex.com">
+          <a className="link c-muted-1" href="https://careers.vtex.com">
             CAREERS
           </a>
         </p>
         <p className="ph5-l">
-          <a className="link c-muted-5" href={'mailto:tetrix@vtex.com'}>
+          <a className="link c-muted-1" href={'mailto:tetrix@vtex.com'}>
             CONTACT US
           </a>
         </p>

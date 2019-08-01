@@ -11,23 +11,23 @@ const Header: FunctionComponent = () => (
     <Nav />
     <div className="flex flex-column flex-row-l justify-around items-center mt5">
       <div className="flex flex-column justify-around w-40-l w-90 order-1 order-0-l">
-        <p className="t-heading-2 c-on-base bold">
+        <p className="t-heading-2 fw7 c-on-emphasis">
           QUAL A ÚLTIMA VEZ QUE VOCÊ SE SURPREENDEU
-            <br />
-          <span className="underline c-muted-5"> COM VOCÊ MESMO?</span>
+          <br />
+          <span className="underline c-muted-1"> COM VOCÊ MESMO?</span>
         </p>
-        <p className="c-on-base lh-copy">
+        <p className="c-on-emphasis lh-copy">
           No Tetrix, o Desafio, você será capaz de descobrir se o seu
-          conhecimento tem fim e, somente ao superá-lo, encontrará respostas
-          às perguntas que podem definir seu futuro. Vença e seja levado a uma
+          conhecimento tem fim e, somente ao superá-lo, encontrará respostas às
+          perguntas que podem definir seu futuro. Vença e seja levado a uma
           jornada de desenvolvimento pelo mundo.
-          </p>
-        <p className="c-muted-5 b">Inscreva-se até o dia 19 de julho.</p>
+        </p>
+        <p className="c-muted-1 b">Inscreva-se até o dia 19 de julho.</p>
         <a
-          className="c-emphasis no-underline br-pill mt6 mb3 bg-base--inverted ph7 b--none pointer w-50-l"
+          className="c-emphasis no-underline br-pill mt6 mb3 bg-base ph7 b--none pointer w-50-l"
           href="https://tetrix.typeform.com/to/Jy9KBv"
         >
-          <p className="t-heading-4 mv4 tc">Participar</p>
+          <p className="t-heading-4 fw5 mv4 tc">Participar</p>
         </a>
       </div>
       <div className="w-40-l w-90 order-0 order-1-l">

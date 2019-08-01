@@ -10,7 +10,7 @@ const Nav: FunctionComponent = () => {
 
   return (
     <nav className="flex">
-      <div className="c-muted-1 w-100 flex flex-column flex-row-l justify-between">
+      <div className="c-on-emphasis w-100 flex flex-column flex-row-l justify-between">
         <div className="flex flex-column items-center">
           <img src={Logo} className="h3-l" alt="TETRIX - O DESAFIO" />
           <button
@@ -23,41 +23,41 @@ const Nav: FunctionComponent = () => {
         <div className="flex-l" hidden={!openNav}>
           <div className="flex flex-column flex-row-l justify-center list mt0 items-center mb0">
             <p className="mh5-l mv5 mv0-l">
-              <a className="link c-muted-1" href="https://tetrix.vtex.com">
+              <a className="link c-on-emphasis" href="https://tetrix.vtex.com">
                 <strong>HOME</strong>
               </a>
             </p>
             <p className="mh5-l mv5 mv0-l bold">
-              <a className="link c-muted-1" href="#about">
+              <a className="link c-on-emphasis" href="#about">
                 <strong>O QUE É?</strong>
               </a>
             </p>
             <p className="mh5-l mv5 mv0-l bold">
               <a
-                className="link c-muted-1"
+                className="link c-on-emphasis"
                 href="https://drive.google.com/file/d/1F3z9SdkM_ze1tnrwTf-FTR1xJ-WJ5BHc/view?usp=sharing"
               >
                 <strong>REGRAS</strong>
               </a>
             </p>
             <p className="mh5-l mv5 mv0-l bold">
-              <a className="link c-muted-1" href="#prize">
+              <a className="link c-on-emphasis" href="#prize">
                 <strong>PRÊMIO</strong>
               </a>
             </p>
             <p className="mh5-l mv5 mv0-l bold">
-              <a className="link c-muted-1" href="#faq">
+              <a className="link c-on-emphasis" href="#faq">
                 <strong>FAQ</strong>
               </a>
             </p>
             <a
-              className="link c-on-base mh5-l mv5"
+              className="link c-on-emphasis mh5-l mv5"
               href="https://www.facebook.com/desafiotetrix/"
             >
               <FontAwesomeIcon icon={faFacebook} />
             </a>
             <a
-              className="link c-on-base mh5-l mv5"
+              className="link c-on-emphasis mh5-l mv5"
               href="https://www.instagram.com/desafiotetrix/"
             >
               <FontAwesomeIcon icon={faInstagram} />
