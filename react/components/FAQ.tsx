@@ -5,7 +5,7 @@ import QuestionCard from './QuestionCard'
 
 const FAQ: FunctionComponent = () => (
   <section id="faq" className="pa8 bg-base--inverted c-on-base--inverted mt8">
-    <p className="t-heading-1">F.A.Q</p>
+    <p className="t-heading-1">F.A.Q.</p>
     <p>
       Para saber mais sobre o TETRIX, o Desafio, confira as{' '}
       <a
