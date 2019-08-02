@@ -57,6 +57,20 @@ const News = () => {
             </h4>
             <small className="t-small">29 de julho de 2019</small>
           </article>
+          <article>
+            <h4 className="t-heading-4 ttu pointer">Resultado primeira fase</h4>
+            <p className="w-80-l lh-copy">
+              Todos os participantes da primeira fase, serão informados
+              individualmente, via e-mail, se foram aprovados para a segunda
+              fase, no dia 02 de agosto de 2019 às 18h30. Caso não receba uma
+              resposta, pedimos que entre em contato via e-mail{' '}
+              <a href={'mailto:ola@tetrixodesafio.com'}>
+                ola@tetrixodesafio.com
+              </a>{' '}
+              ou via chat do Instagram (@desafiotetrix).
+            </p>
+            <small className="t-small">02 de agosto de 2019</small>
+          </article>
         </div>
       </div>
     </section>
