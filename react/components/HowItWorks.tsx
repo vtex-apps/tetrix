@@ -36,7 +36,7 @@ const HowItWorks: FunctionComponent = () => (
       </div>
       <div className="w-30-l mv5 mv0-l">
         <div className="b--emphasis ba pa5 tc">
-          <p>FASE 3 (12/10)</p>
+          <p>FASE 3 (19 e 20/10)</p>
           <p className="t-heading-1 mv2">02</p>
           <p>PERGUNTAS</p>
         </div>
